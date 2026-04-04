@@ -57,11 +57,11 @@
 ---
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tirthp1507\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tirthp1507\&show_icons=true\&theme=tokyonight\&count_private=true\&include_all_commits=true)
 
 ## 📈 Top Languages:
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tirthp1507\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthp1507\&layout=compact\&theme=tokyonight)
 
 ## 🔥 GitHub Streak:
 
