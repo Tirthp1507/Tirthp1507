@@ -1,9 +1,13 @@
 # 💫 About Me:
 
 🔭 Working on AI/ML & Full-Stack projects
+
 🌱 Learning Deep Learning & NLP
+
 👯 Open to AI, Web & Open-Source collaborations
+
 💬 Ask me about Python, Django, React, AI/ML
+
 ⚡ Fun fact: I build ideas into real products
 
 ---
