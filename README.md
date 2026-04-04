@@ -55,10 +55,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats:
 
-![Tirth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tirthp1507\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tirthp1507\&show_icons=true\&theme=tokyonight\&cache_seconds=1800)
 
 ## 🔥 GitHub Streak:
 
@@ -66,7 +65,7 @@
 
 ## 📈 Top Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthp1507\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirthp1507\&layout=compact\&theme=tokyonight\&cache_seconds=1800)
 
 ## ⚡ GitHub Activity Graph:
 
