@@ -8,7 +8,7 @@
 
 💬 Ask me about Python, Django, React, AI/ML
 
-⚡ Fun fact: I build ideas into real products
+⚡ Fun fact: I build ideas into real products 
 
 ---
 
